@@ -1,1 +1,0 @@
-This repository for final course project of EA. Food Delivery System
